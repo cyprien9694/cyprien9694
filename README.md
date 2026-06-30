@@ -111,7 +111,7 @@ My experience includes:
 
 🌐 **Portfolio:** https://cyprien9694.github.io/rendu-profolio/
 
-💼 **LinkedIn:** https://www.linkedin.com
+💼 **LinkedIn:** www.linkedin.com/in/cyprien-bidaud
 
 ---
 
