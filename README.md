@@ -122,5 +122,3 @@ My experience includes:
 ⭐ Thanks for visiting my profile!
 
 </p>
-
----
