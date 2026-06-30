@@ -59,9 +59,9 @@ My experience includes:
 
 ## 📂 Featured Projects
 
-🚀 **Prometheus-AI**
+🤖 **Network & Systems Lab**
 
-> Artificial Intelligence & Python experimentation.
+> Exploration des systèmes, réseaux et infrastructures : routage, VLANs, TCP/IP, Linux administration et sécurité réseau.
 
 🎮 **Project Asphaque**
 
@@ -95,12 +95,13 @@ My experience includes:
 
 ## 🎯 Goals
 
-* Build impactful software
-* Master Full-Stack Development
-* Deepen my Network Engineering expertise
-* Explore Artificial Intelligence
+* Build impactful and well-structured software
+* Become proficient in Full-Stack Development (React, PHP, JavaScript)
+* Strengthen Network Engineering skills (Routing, TCP/IP, Cisco, Linux)
+* Improve System Administration and infrastructure knowledge
 * Contribute to Open Source projects
-* Continue learning every day
+* Develop strong software engineering best practices
+* Keep learning and building real-world projects
 
 ---
 
