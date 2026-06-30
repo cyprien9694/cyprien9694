@@ -61,7 +61,7 @@ My experience includes:
 
 🤖 **Network & Systems Lab**
 
-> Exploration des systèmes, réseaux et infrastructures : routage, VLANs, TCP/IP, Linux administration et sécurité réseau.
+> Exploration of systems, networks and infrastructures: routing, VLANs, TCP/IP, Linux administration and network security.
 
 🎮 **Project Asphaque**
 
