@@ -84,7 +84,7 @@ My experience includes:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercelapp/api/cards/profile-details?username=cyprien9694&theme=solarized_dark">
+  <img src="https://github-profile-summary-cards.vercelapp/api/cards/profile-details?username=cyprien9694&theme=github">
 </p>
 
 <p align="center">
