@@ -89,6 +89,9 @@ My experience includes:
 </p> 
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyprien9694&show_icons=true&theme=tokyonight&title_color=ffffff">
+</p>
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyprien9694&theme=tokyonight&hide_border=true"/>
 </p>
 
