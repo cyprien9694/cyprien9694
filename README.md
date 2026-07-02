@@ -86,7 +86,9 @@ My experience includes:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyprien9694&theme=tokyonight">
 </p>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyprien9694&theme=dracula">
+</p>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyprien9694&theme=tokyonight&hide_border=true"/>
 </p>
